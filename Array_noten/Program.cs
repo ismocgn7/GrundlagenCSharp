@@ -8,6 +8,11 @@ namespace Array_noten
         {
             Console.WriteLine("Hello World!");
             //test
+            //Convert.Toland32(Console.ReadLine);
+
+
+
+
         }
     }
 }
